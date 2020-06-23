@@ -1,5 +1,3 @@
-from tkinter import *
-
 import requests
 from win10toast import ToastNotifier
 import datetime
