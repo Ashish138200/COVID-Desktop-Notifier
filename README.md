@@ -11,6 +11,7 @@ Live updates on COVID-19 India with a popup notification on desktop <br/>
 The following script uses [**win10toast**](https://pypi.org/project/win10toast/) which generates the desktop notification
 ```bash
 pip install win10toast
+pip install requests
 ```
 
 ## Sorce Database:
