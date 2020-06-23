@@ -1,4 +1,3 @@
 # COVID-Desktop-Notifier
 Live updates on COVID-19 India with a popup notification on desktop
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://img.shields.io/badge/Python-3.7.4-red)
+(https://img.shields.io/badge/Python-3.7.4-red)
